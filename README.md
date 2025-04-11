@@ -1,3 +1,3 @@
 # GitHub-Test
 
-Adding some feature A
+Adding some feature B
